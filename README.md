@@ -20,6 +20,7 @@ Integrating the AI model enables:
 ---
 
 ## 🧭 Workflow Overview (n8n)
+![Workflow Overview](https://github.com/NhutVuong/automated_sentiment_pipeline/blob/main/Over_Workflow_n8n.png?raw=true)
 
 ### 1. 🔘 Workflow Trigger
 - **Node:** `When clicking 'Execute workflow'`
