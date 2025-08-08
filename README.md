@@ -37,7 +37,7 @@ Integrating the AI model enables:
 ### 3. 🔄 Batch Processing (200 rows per batch)
 
 ![HTTP Request Node Detail](https://github.com/NhutVuong/automated_sentiment_pipeline/blob/main/Workflow_HTTPREQUEST.png?raw=true)
-> 🧠 Node HTTP Request: Gửi dữ liệu tới Emotion Prediction API (BERT)
+> 🧠 Node `HTTP Request`: Sends batch to Emotion AI API and receives emotion labels.
 
 | Node | Description |
 |------|-------------|
